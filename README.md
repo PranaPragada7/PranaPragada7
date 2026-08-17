@@ -40,32 +40,3 @@ security, and data-driven product development.
 | [**Glaucoma CDR Estimation**](https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet) | U-Net medical-image segmentation and cup-to-disc ratio estimation |
 | [**PHP Security App**](https://github.com/PranaPragada7/Php-Security-App) | RBAC, CSRF protection, rate limiting, secure sessions, encryption, and audit logging |
 | [**Generative AI Lab**](https://github.com/PranaPragada7/GenerativeAI) | LLMs, RAG, embeddings, tool calling, agents, evaluation, and provider trade-offs |
-
-## Technical toolkit
-
-**AI and data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Applications and APIs**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Data and delivery**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## Engineering approach
-
-I value clear architecture, reproducible setup, honest documentation, and
-visible validation. My goal is to make technically interesting work easy to
-understand, run, and evaluate.
