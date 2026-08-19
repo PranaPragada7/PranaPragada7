@@ -2,8 +2,6 @@
 
 M.S. Computer Science student at Purdue University Northwest. I build LLM agents and machine-learning applications, with a focus on turning models into reliable software.
 
-**Focus:** Applied AI · Machine Learning · Agentic Systems · Backend Engineering<br>
-**Core stack:** Python · PyTorch · FastAPI · Streamlit · SQLite · Docker
 
 ## Projects
 
