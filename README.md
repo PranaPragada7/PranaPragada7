@@ -20,7 +20,7 @@
 
 ## Selected projects
 
-These are my most complete, presentation-ready builds. Each repository includes setup instructions and a clear explanation of the engineering decisions behind it.
+These projects are documented, tested, and packaged so they can be evaluated without guesswork.
 
 <table>
   <tr>
@@ -28,11 +28,13 @@ These are my most complete, presentation-ready builds. Each repository includes 
       <h3><a href="https://github.com/PranaPragada7/Expense_Tracker">Expense Tracker Agent</a></h3>
       <p>Natural-language expense management backed by MCP tools and SQLite, with a polished Streamlit interface, spending insights, automated tests, and CI.</p>
       <p><code>Claude</code> <code>MCP</code> <code>SQLite</code> <code>Streamlit</code></p>
+      <p><a href="https://github.com/PranaPragada7/Expense_Tracker/releases/tag/v1.0.0">v1.0.0</a> · 18 tests · 80% coverage</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
       <p>A profile-aware Claude tutor with durable student memory, adaptive five-question practice, spaced repetition, and clear progress diagnostics.</p>
       <p><code>Claude</code> <code>Agents</code> <code>Python</code> <code>Streamlit</code></p>
+      <p><a href="https://github.com/PranaPragada7/Study-Tutor-Agent/releases/tag/v1.0.0">v1.0.0</a> · 232 tests · 74% coverage</p>
     </td>
   </tr>
   <tr>
@@ -40,11 +42,13 @@ These are my most complete, presentation-ready builds. Each repository includes 
       <h3><a href="https://github.com/PranaPragada7/CineBot-NLP-Project">CineBot</a></h3>
       <p>A conversational movie assistant with FastAPI and Streamlit, combining movie Q&amp;A, recommendations, TMDB integration, offline data, Docker, and automated testing.</p>
       <p><code>NLP</code> <code>FastAPI</code> <code>Streamlit</code> <code>Docker</code></p>
+      <p><a href="https://github.com/PranaPragada7/CineBot-NLP-Project/releases/tag/v1.0.0">v1.0.0</a> · 23 tests · 81% coverage</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet">Glaucoma CDR Estimation</a></h3>
-      <p>A medical-imaging pipeline that segments optic discs and cups from retinal fundus images and estimates cup-to-disc ratio using U-Net.</p>
+      <p>A research pipeline that segments optic discs and cups from retinal fundus images and estimates vertical cup-to-disc ratio using U-Net.</p>
       <p><code>PyTorch</code> <code>U-Net</code> <code>Computer Vision</code> <code>Medical AI</code></p>
+      <p><a href="https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet/releases/tag/v1.0.0">v1.0.0</a> · 22 tests · 98% coverage</p>
     </td>
   </tr>
 </table>
@@ -55,7 +59,6 @@ These are my most complete, presentation-ready builds. Each repository includes 
 - Applied machine learning across NLP, computer vision, and adaptive systems
 - Maintainable APIs, local persistence, automated testing, CI, and secure defaults
 
-## More work
+## Generative AI lab
 
-- [**PHP Security App**](https://github.com/PranaPragada7/Php-Security-App) — RBAC, CSRF protection, secure sessions, encryption, rate limiting, and audit logging
-- [**Generative AI Lab**](https://github.com/PranaPragada7/GenerativeAI) — experiments with RAG, embeddings, agents, tool calling, evaluation, and provider trade-offs
+[**GenerativeAI**](https://github.com/PranaPragada7/GenerativeAI) is a tested collection of focused examples covering Gemini, LangChain, Ollama, Hugging Face pipelines, summarization, and document loading. [v1.0.0](https://github.com/PranaPragada7/GenerativeAI/releases/tag/v1.0.0) includes 23 offline tests and 90% coverage.
