@@ -31,7 +31,7 @@ These are my most complete, presentation-ready builds. Each repository includes 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
-      <p>An adaptive learning workspace with profile-aware tutoring, five-question practice sessions, spaced repetition, progress diagnostics, and offline fallbacks.</p>
+      <p>A profile-aware Claude tutor with durable student memory, adaptive five-question practice, spaced repetition, and clear progress diagnostics.</p>
       <p><code>Claude</code> <code>Agents</code> <code>Python</code> <code>Streamlit</code></p>
     </td>
   </tr>
