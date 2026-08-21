@@ -29,8 +29,8 @@ Python, FastAPI, PostgreSQL, Docker, and automated testing.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
-      <p>Adaptive Claude tutor with durable JSON student profiles, epsilon-greedy practice selection, SM-2 spaced repetition, multi-agent coordination, diagnostics, and tested recovery paths.</p>
-      <p><code>Claude</code> <code>Python</code> <code>Streamlit</code> <code>Adaptive Learning</code></p>
+      <p>Local-first adaptive learning platform with a professional Streamlit dashboard, versioned FastAPI service, transactional SQLite profiles, offline tutoring, epsilon-greedy practice, and SM-2 review.</p>
+      <p><code>FastAPI</code> <code>SQLite</code> <code>Docker</code> <code>Streamlit</code> <code>Adaptive Learning</code></p>
     </td>
   </tr>
   <tr>
