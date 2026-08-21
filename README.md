@@ -1,9 +1,8 @@
 # Sai Pranav Pragada
 
-M.S. Computer Science student at Purdue University Northwest and new-grad
-software engineer focused on backend systems, applied AI, and machine learning.
-I build tested applications with explicit APIs, durable data, containerized
-infrastructure, and documented engineering tradeoffs.
+New-grad software engineer and M.S. Computer Science student at Purdue University
+Northwest. I build reliable backend services and applied AI applications using
+Python, FastAPI, PostgreSQL, Docker, and automated testing.
 
 `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `TensorFlow` · `CI/CD`
 
