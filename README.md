@@ -1,40 +1,44 @@
 # Sai Pranav Pragada
 
-M.S. Computer Science student at Purdue University Northwest. I build LLM agents and machine-learning applications, with a focus on turning models into reliable software.
+M.S. Computer Science student at Purdue University Northwest and new-grad
+software engineer focused on backend systems, applied AI, and machine learning.
+I build tested applications with explicit APIs, durable data, containerized
+infrastructure, and documented engineering tradeoffs.
 
+`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `TensorFlow` · `CI/CD`
 
-## Projects
+## Selected engineering projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Expense_Tracker">Expense Tracker Agent</a></h3>
-      <p>Turns natural-language requests into structured expense operations through MCP tools, with manual entry, spending summaries, and category insights.</p>
-      <p><code>Claude</code> <code>MCP</code> <code>SQLite</code> <code>Streamlit</code></p>
+      <h3><a href="https://github.com/PranaPragada7/Expense_Tracker">Expense Tracker Platform</a></h3>
+      <p>Authenticated expense-management API with user-isolated PostgreSQL data, Alembic migrations, idempotent writes, analytics, structured logs, and a separate Claude/MCP assistant.</p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Docker</code> <code>JWT</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
-      <p>Adapts quizzes to a student's progress, remembers strengths and weaknesses, and schedules review using a durable learner profile.</p>
-      <p><code>Claude</code> <code>Python</code> <code>Streamlit</code> <code>SQLite</code></p>
+      <h3><a href="https://github.com/PranaPragada7/CineBot-NLP-Project">CineBot</a></h3>
+      <p>Explainable hybrid movie recommender combining FAISS retrieval, NMF and SVD personalization, persistent conversations, Redis rate limits, and an offline-first demo path.</p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>FAISS</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/CineBot-NLP-Project">CineBot</a></h3>
-      <p>A conversational movie assistant for questions and recommendations, backed by a FastAPI service, TMDB integration, and an offline catalog.</p>
-      <p><code>NLP</code> <code>FastAPI</code> <code>Streamlit</code> <code>Docker</code></p>
+      <h3><a href="https://github.com/PranaPragada7/Php-Security-App">CipherDesk Security Portal</a></h3>
+      <p>Dockerized PHP/MySQL application demonstrating RBAC, encrypted records, HMAC integrity checks, CSRF protection, hardened sessions, rate limiting, and audit logging.</p>
+      <p><code>PHP</code> <code>MySQL</code> <code>Docker</code> <code>RBAC</code> <code>Security</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet">Glaucoma CDR Estimation</a></h3>
-      <p>A research pipeline that segments optic discs and cups from retinal images and estimates vertical cup-to-disc ratio using U-Net.</p>
-      <p><code>PyTorch</code> <code>U-Net</code> <code>Computer Vision</code></p>
+      <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
+      <p>Adaptive Claude tutor with durable JSON student profiles, epsilon-greedy practice selection, SM-2 spaced repetition, multi-agent coordination, diagnostics, and tested recovery paths.</p>
+      <p><code>Claude</code> <code>Python</code> <code>Streamlit</code> <code>Adaptive Learning</code></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/GenerativeAI">GenerativeAI</a></h3>
-      <p>Focused Python examples for Gemini, LangChain, Ollama, Hugging Face pipelines, summarization, and document loading, designed to be easy to run and compare.</p>
-      <p><code>Gemini</code> <code>LangChain</code> <code>Ollama</code> <code>Hugging Face</code></p>
+      <h3><a href="https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet">Glaucoma CDR Estimation</a></h3>
+      <p>Research-oriented TensorFlow/Keras U-Net package for optic disc and cup segmentation, vertical cup-to-disc ratio measurement, command-line inference, model provenance, and weight compatibility checks.</p>
+      <p><code>TensorFlow</code> <code>Keras</code> <code>U-Net</code> <code>Computer Vision</code></p>
     </td>
   </tr>
 </table>
