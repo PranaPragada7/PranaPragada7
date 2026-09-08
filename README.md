@@ -4,6 +4,8 @@ New-grad software engineer and M.S. Computer Science student at Purdue Universit
 Northwest. I build reliable backend services and applied AI applications using
 Python, FastAPI, PostgreSQL, Docker, and automated testing.
 
+[LinkedIn](https://www.linkedin.com/in/sai-pranav-pragada-51b541245/) · [Résumé](Sai_Pranav_Pragada_Resume.pdf)
+
 `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `TensorFlow` · `CI/CD`
 
 ## Selected engineering projects
