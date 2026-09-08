@@ -1,45 +1,34 @@
-# Sai Pranav Pragada
+<p align="center">
+  <img src="assets/header.svg" alt="Sai Pranav Pragada — Backend engineering and applied AI" width="100%" />
+</p>
 
-New-grad software engineer and M.S. Computer Science student at Purdue University
-Northwest. I build reliable backend services and applied AI applications using
-Python, FastAPI, PostgreSQL, Docker, and automated testing.
+### Hey, I'm Pranav 👋
 
-[LinkedIn](https://www.linkedin.com/in/sai-pranav-pragada-51b541245/) · [Résumé](Sai_Pranav_Pragada_Resume.pdf)
+I build backend systems and AI applications that solve everyday problems — from tracking expenses to finding your next movie.
 
-`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `TensorFlow` · `CI/CD`
+- 🎓 M.S. in Computer Science · Purdue University Northwest
+- 🛠️ Working with Python, APIs, databases, and applied machine learning
+- 🧪 Interested in reliable software: thoughtful design, automated tests, and useful documentation
 
-## Selected engineering projects
+### My toolkit
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Expense_Tracker">Expense Tracker Platform</a></h3>
-      <p>Authenticated expense-management API with user-isolated PostgreSQL data, Alembic migrations, idempotent writes, analytics, structured logs, and a separate Claude/MCP assistant.</p>
-      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Docker</code> <code>JWT</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/CineBot-NLP-Project">CineBot</a></h3>
-      <p>Explainable hybrid movie recommender combining FAISS retrieval, NMF and SVD personalization, persistent conversations, Redis rate limits, and an offline-first demo path.</p>
-      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>FAISS</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Php-Security-App">CipherDesk Security Portal</a></h3>
-      <p>Dockerized PHP/MySQL application demonstrating RBAC, encrypted records, HMAC integrity checks, CSRF protection, hardened sessions, rate limiting, and audit logging.</p>
-      <p><code>PHP</code> <code>MySQL</code> <code>Docker</code> <code>RBAC</code> <code>Security</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Study-Tutor-Agent">Study Tutor Agent</a></h3>
-      <p>Local-first adaptive learning platform with a professional Streamlit dashboard, versioned FastAPI service, transactional SQLite profiles, offline tutoring, epsilon-greedy practice, and SM-2 review.</p>
-      <p><code>FastAPI</code> <code>SQLite</code> <code>Docker</code> <code>Streamlit</code> <code>Adaptive Learning</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet">Glaucoma CDR Estimation</a></h3>
-      <p>Research-oriented TensorFlow/Keras U-Net package for optic disc and cup segmentation, vertical cup-to-disc ratio measurement, command-line inference, model provenance, and weight compatibility checks.</p>
-      <p><code>TensorFlow</code> <code>Keras</code> <code>U-Net</code> <code>Computer Vision</code></p>
-    </td>
-  </tr>
-</table>
+**Backend** &nbsp; `Python` `FastAPI` `Flask` `SQLAlchemy`  
+**Data & AI** &nbsp; `PostgreSQL` `Redis` `TensorFlow` `scikit-learn` `FAISS`  
+**Shipping** &nbsp; `Docker` `GitHub Actions` `pytest` `Git`
+
+### Things I've built
+
+💸 **[Expense Tracker](https://github.com/PranaPragada7/Expense_Tracker)**  
+A personal finance API with private accounts, spending analytics, and a conversational AI assistant.
+
+🎬 **[CineBot](https://github.com/PranaPragada7/CineBot-NLP-Project)**  
+A movie recommender that combines semantic search with personalized recommendations and remembers your conversations.
+
+📚 **[Study Tutor](https://github.com/PranaPragada7/Study-Tutor-Agent)**  
+An adaptive study companion with spaced repetition, personalized practice, and offline tutoring.
+
+🔐 **[CipherDesk](https://github.com/PranaPragada7/Php-Security-App)**  
+A security-focused PHP portal with role-based access, encrypted records, and audit trails.
+
+👁️ **[Glaucoma CDR Estimation](https://github.com/PranaPragada7/Glaucoma-Cdr-Estimation-Unet)**  
+A computer vision research project for optic disc and cup segmentation using U-Net.
